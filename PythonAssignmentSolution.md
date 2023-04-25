@@ -351,8 +351,9 @@ Q47. Create a set and add "iNeuron" in your set.
 
 Ans47. 
 ```python
-set1 = {"iNeuron"}
-set1
+s1=set()
+s1.add("iNeuron")
+s1
 ```
 
 Q48. Try to add multiple values using add() function.
